@@ -5,10 +5,7 @@ cute cat with laptop
 
 <hr>
 
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
+
     <style>
         /* Контейнер, который делит страницу на две части */
         .container {
@@ -38,8 +35,7 @@ cute cat with laptop
             border-radius: 10px;
         }
     </style>
-</head>
-<body>
+
 
     <div class="container">
         <!-- Левая часть: текст -->
@@ -70,8 +66,7 @@ visited more than <br>40 cities</br> around the world</p>
 </p>
 
   </div>
-</body>
-</html>
+
 <!--
 **elenavv/elenavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
