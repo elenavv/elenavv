@@ -5,38 +5,6 @@ cute cat with laptop
 
 <hr>
 
-
-    <style>
-        /* Контейнер, который делит страницу на две части */
-        .container {
-            display: flex;
-            align-items: center; /* Выравнивание по центру по вертикали */
-            justify-content: space-between; /* Текст слева, картинка справа */
-            padding: 50px;
-            font-family: Arial, sans-serif;
-            gap: 20px; /* Расстояние между текстом и картинкой */
-        }
-
-        /* Блок с текстом */
-        .text-content {
-            max-width: 50%;
-        }
-
-        .text-content p {
-            font-size: 1.2rem;
-            margin: 10px 0;
-            color: #333;
-        }
-
-        /* Блок с анимацией */
-        .image-content img {
-            max-width: 400px; /* Ширина картинки */
-            height: auto;
-            border-radius: 10px;
-        }
-    </style>
-
-
     <div class="container">
         <!-- Левая часть: текст -->
         <div class="text-content">
