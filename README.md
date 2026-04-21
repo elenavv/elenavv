@@ -6,15 +6,15 @@ cute cat with laptop
 <hr>
 
  
-            <p>🔭In 2024, I became a <br>sole proprietor</br> and began assembling teams to develop projects.</p>
-            <p>⚡In 2023, I became the <br>director<br> of the IT Academy.</p>
-            <p>💬In 2022, I became <br>head of the Development Department</br></p>
-            <p>💬In 2020, I discovered the international IT Academy, where I taught programming classes.
-</p>
+          🔭In 2024, I became a <br>sole proprietor</br> and began assembling teams to develop projects.
+            ⚡In 2023, I became the <br>director<br> of the IT Academy.
+            💬In 2022, I became <br>head of the Development Department</br><
+           💬In 2020, I discovered the international IT Academy, where I taught programming classes.
+
       
 
   
-            <!-- Замените ссылку на свою (GIF или Lottie) -->
+            
             <img src="https://www.gif-vif.com/trending/pink-cat-on-computer-tak-tak-type-1tstxvn51ptm5hju.gif" alt="catwithkitty">
    
     
