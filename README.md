@@ -23,5 +23,5 @@
 
 ### 📬 Connect with me:
 <a href="https://instagram.com/lenamalchevskaya" target="_blank">
-  <img src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="Instagram" width="50">
+  <img src="[https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif](https://escapadepr.com/wp-content/uploads/2018/02/giphy.gif)" alt="Instagram" width="50">
 </a>
